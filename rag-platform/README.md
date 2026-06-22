@@ -4,15 +4,6 @@
 
 A production-inspired **Retrieval-Augmented Generation (RAG)** system built with FastAPI, ChromaDB, and sentence-transformers. Upload PDF, DOCX, or TXT files and instantly query them using natural language. The system finds the most semantically relevant passages and generates a synthesized answer using a fully local LLM — nothing leaves your machine.
 
----
-
-## Screenshots
-
-> _(Add your screenshots here after running the app)_
-> `screenshots/home.png` · `screenshots/upload.png` · `screenshots/answer.png`
-
----
-
 ## How It Works
 
 ```
@@ -172,7 +163,3 @@ Interactive API docs available at `http://localhost:8000/docs` (Swagger UI, auto
 - [ ] Multi-user support with per-user document isolation
 
 ---
-
-## License
-
-MIT License — free to use, modify, and distribute.
